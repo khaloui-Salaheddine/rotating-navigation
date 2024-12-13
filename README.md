@@ -1,6 +1,6 @@
 # Rotating Navigation
 
-![cover](./assets/nav.gif)
+![cover](./image.png)
 
 ## 🦉 Main information
 
